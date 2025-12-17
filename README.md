@@ -1,0 +1,2 @@
+# Image-to-Detailed-Description-Generator-for-visuallly-imapired-users
+Image to Detailed Description Generator is an AI-based assistive system designed to help visually impaired users understand images. The system analyzes visual content, identifies objects and scene context, and generates clear textual descriptions with optional audio output to improve accessibility and independent interaction with the environment.
