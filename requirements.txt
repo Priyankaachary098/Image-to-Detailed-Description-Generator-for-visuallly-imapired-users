@@ -1,0 +1,12 @@
+gradio
+ultralytics
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+sentencepiece
+easyocr
+gTTS
+opencv-python
+numpy
